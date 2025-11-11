@@ -4,7 +4,7 @@ from openai import OpenAI
 st.set_page_config(page_title="🎭 Role-based Creative Chatbot", page_icon="🎨", layout="centered")
 
 st.title("🎭 Role-based Creative Chatbot")
-st.caption("Built for 'Art & Advanced Big Data' • Prof. Jahwan Koo (SKKU)")
+st.caption("Built for 'Art & Advanced Big Data' • from seyeon kim (SKKU)")
 
 st.markdown("---")
 
